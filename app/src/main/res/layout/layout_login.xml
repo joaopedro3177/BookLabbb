@@ -67,7 +67,7 @@
             style="Button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:backgroundTint="#185891"
+            android:backgroundTint="#0F2D4D"
             android:padding="10dp"
             android:text="Entrar"
             android:textAllCaps="true"
