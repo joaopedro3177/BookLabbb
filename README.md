@@ -1,0 +1,1 @@
+eu joao pedro simião dos santos me declaro apaixonado pela dona Laura, não seo viver sem ela e o rogerio é um cuzao vacilão comedia to cheio de odio no peito e amor na mente  i love you laurinha da esquina da senzala  
